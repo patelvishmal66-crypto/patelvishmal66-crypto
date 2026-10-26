@@ -1,37 +1,144 @@
-<h1 align="center">Hi 👋, I'm Vishmal Patel</h1>
-<h3 align="center">frontend developer</h3>
+<!-- ==================== HEADER ==================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelvishmal66-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="patelvishmal66-crypto" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelvishmal66-crypto" alt="patelvishmal66-crypto" /></a> </p>
+# Hi 👋, I'm Vishmal Patel
 
-- 📫 How to reach me **patelvishmal66@gmail.com**
+### 💻 Frontend Developer | C++ Programmer | Tech Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Building modern web experiences and improving my problem-solving skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=patelvishmal66-crypto&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelvishmal66-crypto&show_icons=true&locale=en&layout=compact" alt="patelvishmal66-crypto" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelvishmal66-crypto&show_icons=true&locale=en" alt="patelvishmal66-crypto" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelvishmal66-crypto&" alt="patelvishmal66-crypto" /></p>
+<!-- ==================== ABOUT ME ==================== -->
 
+## 🚀 About Me
 
-<!--
-**patelvishmal66-crypto/patelvishmal66-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Interested in frontend development and web technologies.
+* 🌱 Continuously learning and improving my programming skills.
+* 🧠 Practicing Data Structures and Algorithms using C++.
+* 🛠️ Exploring web development, databases, and software development tools.
+* 📊 Tracking my coding journey through GitHub.
+* 📫 Email: **[patelvishmal66@gmail.com](mailto:patelvishmal66@gmail.com)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Connect With Me
+
+<div align="left">
+
+<a href="mailto:patelvishmal66@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/patelvishmal66-crypto">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies"/>
+
+### Databases and Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="Databases and Tools"/>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=patelvishmal66-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvishmal66-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=patelvishmal66-crypto&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelvishmal66-crypto&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/patelvishmal66-crypto/patelvishmal66-crypto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
+</div>
+
+---
+
+<!-- ==================== PROFILE TROPHIES ==================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=patelvishmal66-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" width="100%"/>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB SUMMARY ==================== -->
+
+## 📋 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelvishmal66-crypto&theme=tokyonight" alt="GitHub Contribution Summary" width="100%"/>
+
+</div>
+
+---
+
+<!-- ========
