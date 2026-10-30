@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Vishmal Patel
+# Hi , I'm Vishmal Patel.
 
 ### 💻 Frontend Developer | C++ Programmer | Tech Enthusiast
 
@@ -16,20 +16,20 @@ Building modern web experiences and improving my problem-solving skills.
 
 <!-- ==================== ABOUT ME ==================== -->
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Interested in frontend development and web technologies.
-* 🌱 Continuously learning and improving my programming skills.
-* 🧠 Practicing Data Structures and Algorithms using C++.
-* 🛠️ Exploring web development, databases, and software development tools.
-* 📊 Tracking my coding journey through GitHub.
-* 📫 Email: **[patelvishmal66@gmail.com](mailto:patelvishmal66@gmail.com)**
+*  Interested in frontend development and web technologies.
+*  Continuously learning and improving my programming skills.
+*  practicing Data Structures and Algorithms using C++.
+*  Exploring web development, databases, and software development tools.
+*  Tracking my coding journey through GitHub.
+*  Email: **[patelvishmal66@gmail.com](mailto:patelvishmal66@gmail.com)**
 
 ---
 
 <!-- ==================== CONNECT ==================== -->
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="left">
 
@@ -47,7 +47,7 @@ Building modern web experiences and improving my problem-solving skills.
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Building modern web experiences and improving my problem-solving skills.
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Building modern web experiences and improving my problem-solving skills.
 
 <!-- ==================== CONTRIBUTION STREAK ==================== -->
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Building modern web experiences and improving my problem-solving skills.
 ---
 
 
-## 📋 GitHub Profile Summary
+##  GitHub Profile Summary
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Building modern web experiences and improving my problem-solving skills.
 
 <div align="center">
 
-### 💡 Keep Learning. Keep Building. Keep Growing.
+###  Keep Learning. Keep Building. Keep Growing.
 
 *Thanks for visiting my profile!*
 
