@@ -4,7 +4,7 @@
 
 # Hi , I'm Vishmal Patel.
 
-### 💻 Frontend Developer | C++ Programmer | Tech Enthusiast
+###  Frontend Developer | C++ Programmer | Tech Enthusiast
 
 Building modern web experiences and improving my problem-solving skills.
 
